@@ -1,0 +1,32 @@
+Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                IconButton(
+                  onPressed: () {},
+                  icon: Icon(
+                    Icons.list_rounded,
+                    color: Colors.grey[700],
+                  ),
+                ),
+                IconButton(
+                  onPressed: () {},
+                  icon: Icon(Icons.live_tv_rounded),
+                  color: Colors.grey[700],
+                ),
+                IconButton(
+                  onPressed: () {},
+                  icon: Icon(Icons.headphones_rounded),
+                  color: Colors.grey[700],
+                ),
+                IconButton(
+                  onPressed: () {},
+                  icon: Icon(Icons.lightbulb_sharp),
+                  color: Colors.grey[700],
+                ),
+                IconButton(
+                  onPressed: () {},
+                  icon: Icon(Icons.person_rounded),
+                  color: Colors.grey[700],
+                ),
+              ],
+            ),
